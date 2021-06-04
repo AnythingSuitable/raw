@@ -38,3 +38,17 @@ I Hope you will love what you just installed :hearts:
 
 **Version 0.1**
 * Initial Build
+
+## Contacting Developer
+
+* **Github : [Dude, this is where you are :)](https://github.com/AnythingSuitable "@AnythingSuitable's GitHub")**
+* **Twitter : [@WhatIsSuitable](https://twitter.com/WhatIsSuitable "@WhatIsSuitable")**
+* **Mail : anything.suitable@aol.com**
+
+## To-Do List
+
+* Fixing Bugs and some UI misc Fixes
+* Maybe Add more Languages
+* And everything else you are facing...
+
+## This is END.. LOL :octocat:

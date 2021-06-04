@@ -49,5 +49,6 @@ I Hope you will love what you just installed :hearts:
 ## To-Do List
 
 * Fixing Bugs and some UI misc Fixes
+* Add Page for missing Packages and installing them from there only
 * Maybe Add more Languages
 * And everything else you are facing...

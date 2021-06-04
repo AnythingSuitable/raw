@@ -1,6 +1,6 @@
 # TorghostNG 
 
-![alt text](https://raw.githubusercontent.com/AnythingSuitable/raw/main/torngSRC/Group%2020.png "TorghostNG-GUI")
+![alt text](https://pbs.twimg.com/profile_banners/1395357683734048771/1622822650/600x200 "TorghostNG-GUI")
 
 > ***Wanna Contribute ?*** [Check the Source Code Here](https://github.com/GitHackTools "GitHackTools") :grin:
 
